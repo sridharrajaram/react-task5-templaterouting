@@ -1,3 +1,7 @@
+Task
+https://startbootstrap.com/previews/sb-admin-2 value from component need to show to other component
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
